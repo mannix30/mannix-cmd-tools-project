@@ -1,3 +1,8 @@
+__all__ = [
+'bulk_rename',
+'rename_file',
+]
+
 import re
 import shutil
 import sys
