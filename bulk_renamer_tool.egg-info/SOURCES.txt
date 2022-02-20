@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+bulk_renamer_tool.egg-info/PKG-INFO
+bulk_renamer_tool.egg-info/SOURCES.txt
+bulk_renamer_tool.egg-info/dependency_links.txt
+bulk_renamer_tool.egg-info/requires.txt
+bulk_renamer_tool.egg-info/top_level.txt
+cmd_tools/__init__.py
+cmd_tools/bulk_rename.py
